@@ -1,0 +1,22 @@
+#
+# ** THIS IS AN AUTO-GENERATED FILE **
+#
+
+# Default Kibana configuration for docker target
+server.name: kibana
+server.host: "0"
+elasticsearch.hosts: [ "http://elasticsearch:9200" ]
+monitoring.ui.container.elasticsearch.enabled: true
+#elasticsearch.username: "kibana"
+#elasticsearch.password: "9sae1LNdlDEWGQ54sj9M"
+#xpack.security.authc.providers:
+#  basic.basic1:
+#    order: 0
+#    description: "Log in as an Employee"
+#  anonymous.anonymous1:
+#    order: 1
+#    description: "Continue as guest"
+#    icon: "globe"
+#    credentials:
+#      username: "anonymous"
+#      password: "anonymous"

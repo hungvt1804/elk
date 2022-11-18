@@ -1,0 +1,16 @@
+# This file is where you define your pipelines. You can define multiple.
+# For more information on multiple pipelines, see the documentation:
+#   https://www.elastic.co/guide/en/logstash/current/multiple-pipelines.html
+
+- pipeline.id: main
+  path.config: "/usr/share/logstash/pipeline"
+
+
+#- pipeline.id: from-scratch-pipeline
+#  path.config: "/usr/share/logstash/pipeline/product_index.conf"
+#- pipeline.id: users-120t
+#  path.config: "/usr/share/logstash/pipeline/product_index.conf"
+
+
+- pipeline.id: vth-racs
+  path.config: "/usr/share/logstash/pipeline/rac_index.conf"

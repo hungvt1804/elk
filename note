@@ -1,2 +1,20 @@
 https://www.elastic.co/blog/how-to-keep-elasticsearch-synchronized-with-a-relational-database-using-logstash
 https://mohaamer5.medium.com/logstash-for-synchronize-elasticsearch-with-dbs-e5dda7cea930
+
+Cài đặt mật khẩu
+https://www.elastic.co/guide/en/elasticsearch/reference/current/security-minimal-setup.html
+
+Phan quyen
+https://dev.to/nasrulhazim/setting-up-anonymous-user-to-embed-kibana-dashboard-to-your-application-p7b
+
+
+security  bảo mật kibana
+https://www.elastic.co/guide/en/kibana/7.17/using-kibana-with-security.html
+
+https://www.elastic.co/guide/en/elasticsearch/reference/current/security-minimal-setup.html
+
+https://www.elastic.co/guide/en/kibana/7.17/security-settings-kb.html
+
+
+Embed iframe
+https://dev.to/nasrulhazim/setting-up-anonymous-user-to-embed-kibana-dashboard-to-your-application-p7b
